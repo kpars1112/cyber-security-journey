@@ -7,6 +7,7 @@ Tracking my journey as I break into Cyber Security
 ## Day 1 - 06/22/25
 
 Installed VirtualBox  
+Installed Kali
 Installed Git for Windows  
 Practiced basic Linux commands (`ls`, `cd`, `pwd`, `cat`, `chmod`) 
 
@@ -16,7 +17,3 @@ Practiced basic Linux commands (`ls`, `cd`, `pwd`, `cat`, `chmod`)
 - **Nmap Vulnsweep:** A customized Nmap scan script to identify common vulnerabilities on target hosts.
 
 ---
-
-## Day 2 - [Date]
-
-[Fill this in as you go]
