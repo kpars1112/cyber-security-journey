@@ -10,6 +10,11 @@ Installed VirtualBox
 Installed Git for Windows  
 Practiced basic Linux commands (`ls`, `cd`, `pwd`, `cat`, `chmod`) 
 
+## Projects
+
+- **Windows Hardening Script:** A PowerShell script to apply basic security hardening to Windows systems.  
+- **Nmap Vulnsweep:** A customized Nmap scan script to identify common vulnerabilities on target hosts.
+
 ---
 
 ## Day 2 - [Date]
